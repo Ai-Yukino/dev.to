@@ -1,5 +1,3 @@
-![clock-pink-background](2b1IexhKPz4_1-19.png)
-
 I convinced my class at [Tech Talent South](https://www.techtalentsouth.com/) to use Vite instead of `create-react-app`. These are some notes I wrote to help my instructor, TA, and classmates start using Vite.
 
 ---
@@ -55,4 +53,5 @@ Tips:
 
 ---
 
-Banner source: [🎥 きゅうくらりん / いよわ feat.可不（Kyu-kurarin / Iyowa feat.Kafu）](https://www.youtube.com/watch?v=2b1IexhKPz4&t=79s)
+Banner source: [🎥 きゅうくらりん / いよわ feat.可不（Kyu-kurarin / Iyowa feat.Kafu）](https://www.youtube.com/watch?v=2b1IexhKPz4&t=79s)  
+Article source: [🐙🐱 Ai-Yukino/dev.to](https://github.com/Ai-Yukino/dev.to/tree/main/10-20-21-Wednesday-1)
