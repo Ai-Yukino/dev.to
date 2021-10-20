@@ -1,2 +1,2 @@
-title: React + Vite quick start
+title: React + Vite quick start  
 tags: react, vite
