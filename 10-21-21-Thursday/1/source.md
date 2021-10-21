@@ -40,10 +40,12 @@ Track depencies and signal "side-effects" that don't necessarily affect the DOM.
 
 ## Conclusion
 
-React hooks are probably difficult to "learn" in isolation because they likely make more sense in a concrete React app. Moreover, it seems like its more important to learn an efficient and effective workflow using many different hooks to accomplish particular task rather than just "learning" an individual React hook.
+React hooks are probably difficult to "learn" in isolation because they likely make more sense in a concrete React app. Moreover, it seems like its more important to learn an efficient and effective workflow using many different hooks to accomplish a particular task rather than just "learning" an individual React hook.
 
-> 📑 Evan You's [talk](https://www.youtube.com/watch?v=bOdfo5SmQc8) at dotJS 2019 also great context for why we even have hooks in React as well as similar ideas in other libraries/frameworks like Vue and Svelte.
+> 📑 Evan You's [talk](https://www.youtube.com/watch?v=bOdfo5SmQc8) at dotJS 2019 provides great context for why we even have hooks in React as well as similar ideas in other libraries/frameworks like Vue and Svelte.
 
 ---
 
-Banner source:
+Banner source: [🎥 いしわたり淳治 ＆ 砂原良徳 ＋ やくしまるえつこ「神様のいうとおり」（2010）](https://www.youtube.com/watch?v=fvFO4eLp7oc&t=79s)
+
+Article source: [🐙🐱 Ai-Yukino/dev.to](https://github.com/Ai-Yukino/dev.to/tree/main/10-21-21-Thursday/1)

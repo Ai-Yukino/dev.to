@@ -1,2 +1,2 @@
-title: 3 React hooks
+title: Lumping together React hooks
 tags: react
