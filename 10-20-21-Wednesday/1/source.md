@@ -17,7 +17,7 @@ cd my-vue-app
 npm i
 ```
 
-Run your app
+Run your app with
 
 ```
 npm run dev
