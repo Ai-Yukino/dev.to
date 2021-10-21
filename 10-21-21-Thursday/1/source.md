@@ -1,3 +1,5 @@
+![Tatami-galaxy](fvFO4eLp7oc_1-19.png)
+
 This week at [TTS](https://www.techtalentsouth.com/), my class is learning about React hooks. One assignemnt involved watching PedroTech's [react hooks course](https://www.youtube.com/watch?v=LlvBzyy-558) video and writing about three hooks.
 
 This article is a "wrapper" around that assignment. I'll actually discuss all 10 prebuilt hooks albeit at a shallow level. Please let me know if I got anything wrong.
