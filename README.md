@@ -8,8 +8,8 @@ Source for my blog posts on [dev.to/uwu](https://dev.to/uwu).
 ##-##-##-{Day}
 |___1   (post number)
 |   |   xxxxxxxxx_##-##.png (Banner image: YouTube ID, timestamp)
-|   |   meta.md (post title, tags)
-|   |   source.md (post body)
+|   |   meta.md (meta data; e.g. post title, tags, notes)
+|   |   main.md (main post content)
 |___2
 ...
 |___3
