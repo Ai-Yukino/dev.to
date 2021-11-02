@@ -1,6 +1,11 @@
 title: Learning TypeScript  
 tags: TypeScript
 
+## Notes
+
+Banner idea: Something involving [🎥 Seize the day by Asaka](https://www.youtube.com/watch?v=s8wv6v5ZVEo)  
+Use [🐙🐱 degit](https://github.com/Rich-Harris/degit) to setup a template
+
 ## Links
 
 [👤 Puru](https://www.puruvj.dev/)  
