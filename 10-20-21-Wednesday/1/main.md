@@ -2,7 +2,9 @@ I convinced my class at [Tech Talent South](https://www.techtalentsouth.com/) to
 
 ---
 
-# Quick start
+## Single command quick start (Windows)
+
+(These instructions may work for non-Windows computers, but it didn't work for at least one of my classmates who used Linux. You can always look at the official Vite [documentation](https://vitejs.dev/guide/) for more details.)
 
 Run
 
@@ -25,7 +27,7 @@ npm run dev
 
 For more info, check out the [docs](https://vitejs.dev/guide/#trying-vite-online) or Evan You's 14 minute [demo video](https://www.youtube.com/watch?v=DkGV5F4XnfQ).
 
-# Quick start with more options
+## Multiple command quick start
 
 Run
 
@@ -35,7 +37,7 @@ npm init vite@latest
 
 and select the options you want.
 
-# Links
+## Links
 
 [📝 Docs](https://vitejs.dev/guide/#trying-vite-online)
 
@@ -43,9 +45,9 @@ and select the options you want.
 
 [👥 Why ES modules?](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
-# Notes
+## Notes
 
-## 👀Replacing `create-react-app` with Vite👀
+### 👀Replacing `create-react-app` with Vite👀
 
 Tips:
 
